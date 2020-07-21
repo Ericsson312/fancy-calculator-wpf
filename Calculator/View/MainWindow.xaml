@@ -17,22 +17,6 @@
         <local:MainWindowViewModel></local:MainWindowViewModel>
     </Window.DataContext>
 
-    <Window.InputBindings>
-        <KeyBinding Key="NumPad0" Command="{Binding ClickOnNumber}" CommandParameter="0"/>
-        <KeyBinding Key="NumPad1" Command="{Binding ClickOnNumber}" CommandParameter="1"/>
-        <KeyBinding Key="NumPad2" Command="{Binding ClickOnNumber}" CommandParameter="2"/>
-        <KeyBinding Key="NumPad3" Command="{Binding ClickOnNumber}" CommandParameter="3"/>
-        <KeyBinding Key="NumPad4" Command="{Binding ClickOnNumber}" CommandParameter="4"/>
-        <KeyBinding Key="NumPad5" Command="{Binding ClickOnNumber}" CommandParameter="5"/>
-        <KeyBinding Key="NumPad6" Command="{Binding ClickOnNumber}" CommandParameter="6"/>
-        <KeyBinding Key="NumPad7" Command="{Binding ClickOnNumber}" CommandParameter="7"/>
-        <KeyBinding Key="NumPad8" Command="{Binding ClickOnNumber}" CommandParameter="8"/>
-        <KeyBinding Key="NumPad9" Command="{Binding ClickOnNumber}" CommandParameter="9"/>
-        <KeyBinding Key="Decimal" Command="{Binding ClickOnPoint}" CommandParameter="."/>
-        <KeyBinding Key="Delete" Command="{Binding ClickOnCB}" CommandParameter="C"/>
-        <KeyBinding Key="Backspace" Command="{Binding ClickOnCB}" CommandParameter="B"/>
-    </Window.InputBindings>
-
     <Window.Resources>
 
         <FontFamily x:Key="DigitalFont">
@@ -91,7 +75,7 @@
         </Style>
 
         <Style TargetType="Button" x:Key="OperationRoundButton" BasedOn="{StaticResource RoundButton}">
-            <Setter Property="Command" Value="{Binding Path=ClickOnArithmeticOperation}"/>
+            <Setter Property="Command" Value="{Binding Path=ClickOnArithmeticalOperation}"/>
         </Style>
 
     </Window.Resources>
@@ -155,7 +139,7 @@
                          VerticalContentAlignment="Center"
                          IsReadOnly="True"
                          Foreground="Black"
-                         Text="{Binding Path=Text, Mode=OneWay}"
+                         Text="{Binding Path=Text, Mode=TwoWay}"
                          BorderThickness="0" Height="58">
                 </TextBox>
                 
@@ -166,35 +150,30 @@
                     <Button Content="7" Style="{StaticResource NumericRoundButton}" CommandParameter="7"/>
                     <Button Content="8" Style="{StaticResource NumericRoundButton}" CommandParameter="8"/>
                     <Button Content="9" Style="{StaticResource NumericRoundButton}" CommandParameter="9"/>
-                    <Button Content="÷" Style="{StaticResource OperationRoundButton}" CommandParameter="Division"/>
+                    <Button Content="÷" Style="{StaticResource OperationRoundButton}" CommandParameter="/"/>
                 </TextBlock>
                 <TextBlock>
                     <Button Content="4" Style="{StaticResource NumericRoundButton}" CommandParameter="4"/>
                     <Button Content="5" Style="{StaticResource NumericRoundButton}" CommandParameter="5"/>
                     <Button Content="6" Style="{StaticResource NumericRoundButton}" CommandParameter="6"/>
-                    <Button Content="*" Style="{StaticResource OperationRoundButton}" CommandParameter="Multiplication"/>
+                    <Button Content="*" Style="{StaticResource OperationRoundButton}" CommandParameter="*"/>
                 </TextBlock>
                 <TextBlock>
                     <Button Content="1" Style="{StaticResource NumericRoundButton}" CommandParameter="1"/>
                     <Button Content="2" Style="{StaticResource NumericRoundButton}" CommandParameter="2"/>
                     <Button Content="3" Style="{StaticResource NumericRoundButton}" CommandParameter="3"/>
-                    <Button Content="-" Style="{StaticResource OperationRoundButton}" CommandParameter="Subtraction"/>
+                    <Button Content="-" Style="{StaticResource OperationRoundButton}" CommandParameter="-"/>
                 </TextBlock>
                 <TextBlock>
                     <Button Content="0" Style="{StaticResource NumericRoundButton}" CommandParameter="0"/>
-                    <Button Content="." Style="{StaticResource RoundButton}" 
-                            Command="{Binding ClickOnPoint}"
-                            CommandParameter="."/>
-                    <Button Content="=" Style="{StaticResource RoundButton}"/>
+                    <Button Content="." Style="{StaticResource RoundButton}" Command="{Binding ClickOnPoint}" CommandParameter="."/>
+                    <Button Content="=" Style="{StaticResource OperationRoundButton}" CommandParameter="="/>
                     <Button Content="+" Style="{StaticResource OperationRoundButton}" CommandParameter="+"/>
                 </TextBlock>
                 <TextBlock>
-                    <Button Content="B" Style="{StaticResource RoundButton}"
-                            Command="{Binding ClickOnCB}"
-                            CommandParameter="B"/>
-                    <Button Content="C" Style="{StaticResource RoundButton}"
-                            Command="{Binding ClickOnCB}"
-                            CommandParameter="C"/>
+                    <Button Content="CE" Style="{StaticResource RoundButton}" Command="{Binding ClickOnCE}"/>
+                    <Button Content="B" Style="{StaticResource RoundButton}" Command="{Binding ClickOnB}"/>
+                    <Button Content="C" Style="{StaticResource RoundButton}" Command="{Binding ClickOnC}"/>
                 </TextBlock>
             </StackPanel>
         </Grid>

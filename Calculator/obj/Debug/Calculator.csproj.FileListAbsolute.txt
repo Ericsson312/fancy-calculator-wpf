@@ -28,3 +28,20 @@ C:\Users\Alex\Desktop\Fancy Calculator Project\Calculator\obj\Debug\Calculator.P
 C:\Users\Alex\Desktop\Fancy Calculator Project\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
 C:\Users\Alex\Desktop\Fancy Calculator Project\Calculator\obj\Debug\Calculator.exe
 C:\Users\Alex\Desktop\Fancy Calculator Project\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Alex\Desktop\FancyCalculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Alex\Desktop\FancyCalculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Alex\Desktop\FancyCalculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Alex\Desktop\FancyCalculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\FancyCalculator\Calculator\obj\Debug\View\MainWindow.g.cs
+C:\Users\Alex\Desktop\FancyCalculator\Calculator\obj\Debug\App.g.cs
+C:\Users\Alex\Desktop\FancyCalculator\Calculator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Alex\Desktop\FancyCalculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\Alex\Desktop\FancyCalculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\Alex\Desktop\FancyCalculator\Calculator\obj\Debug\View\MainWindow.baml
+C:\Users\Alex\Desktop\FancyCalculator\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\Alex\Desktop\FancyCalculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Alex\Desktop\FancyCalculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\FancyCalculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Alex\Desktop\FancyCalculator\Calculator\obj\Debug\Calculator.pdb
+C:\Users\Alex\Desktop\FancyCalculator\Calculator\bin\Debug\MathParser.org-mXparser.dll
+C:\Users\Alex\Desktop\FancyCalculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete
