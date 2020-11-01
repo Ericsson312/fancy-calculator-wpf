@@ -1,47 +1,18 @@
-C:\Users\Alex\Documents\Visual Studio 2017\Projects\My_WPF\Calculator\bin\Debug\Calculator.exe.config
-C:\Users\Alex\Documents\Visual Studio 2017\Projects\My_WPF\Calculator\bin\Debug\Calculator.exe
-C:\Users\Alex\Documents\Visual Studio 2017\Projects\My_WPF\Calculator\bin\Debug\Calculator.pdb
-C:\Users\Alex\Documents\Visual Studio 2017\Projects\My_WPF\Calculator\obj\Debug\View\MainWindow.g.cs
-C:\Users\Alex\Documents\Visual Studio 2017\Projects\My_WPF\Calculator\obj\Debug\App.g.cs
-C:\Users\Alex\Documents\Visual Studio 2017\Projects\My_WPF\Calculator\obj\Debug\GeneratedInternalTypeHelper.g.cs
-C:\Users\Alex\Documents\Visual Studio 2017\Projects\My_WPF\Calculator\obj\Debug\Calculator_MarkupCompile.cache
-C:\Users\Alex\Documents\Visual Studio 2017\Projects\My_WPF\Calculator\obj\Debug\Calculator_MarkupCompile.lref
-C:\Users\Alex\Documents\Visual Studio 2017\Projects\My_WPF\Calculator\obj\Debug\View\MainWindow.baml
-C:\Users\Alex\Documents\Visual Studio 2017\Projects\My_WPF\Calculator\obj\Debug\Calculator.g.resources
-C:\Users\Alex\Documents\Visual Studio 2017\Projects\My_WPF\Calculator\obj\Debug\Calculator.Properties.Resources.resources
-C:\Users\Alex\Documents\Visual Studio 2017\Projects\My_WPF\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
-C:\Users\Alex\Documents\Visual Studio 2017\Projects\My_WPF\Calculator\obj\Debug\Calculator.exe
-C:\Users\Alex\Documents\Visual Studio 2017\Projects\My_WPF\Calculator\obj\Debug\Calculator.pdb
-C:\Users\Alex\documents\visual studio 2017\Projects\My_WPF\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
-C:\Users\Alex\Desktop\Fancy Calculator Project\Calculator\bin\Debug\Calculator.exe.config
-C:\Users\Alex\Desktop\Fancy Calculator Project\Calculator\bin\Debug\Calculator.exe
-C:\Users\Alex\Desktop\Fancy Calculator Project\Calculator\bin\Debug\Calculator.pdb
-C:\Users\Alex\Desktop\Fancy Calculator Project\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
-C:\Users\Alex\Desktop\Fancy Calculator Project\Calculator\obj\Debug\View\MainWindow.g.cs
-C:\Users\Alex\Desktop\Fancy Calculator Project\Calculator\obj\Debug\App.g.cs
-C:\Users\Alex\Desktop\Fancy Calculator Project\Calculator\obj\Debug\GeneratedInternalTypeHelper.g.cs
-C:\Users\Alex\Desktop\Fancy Calculator Project\Calculator\obj\Debug\Calculator_MarkupCompile.cache
-C:\Users\Alex\Desktop\Fancy Calculator Project\Calculator\obj\Debug\Calculator_MarkupCompile.lref
-C:\Users\Alex\Desktop\Fancy Calculator Project\Calculator\obj\Debug\View\MainWindow.baml
-C:\Users\Alex\Desktop\Fancy Calculator Project\Calculator\obj\Debug\Calculator.g.resources
-C:\Users\Alex\Desktop\Fancy Calculator Project\Calculator\obj\Debug\Calculator.Properties.Resources.resources
-C:\Users\Alex\Desktop\Fancy Calculator Project\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
-C:\Users\Alex\Desktop\Fancy Calculator Project\Calculator\obj\Debug\Calculator.exe
-C:\Users\Alex\Desktop\Fancy Calculator Project\Calculator\obj\Debug\Calculator.pdb
-C:\Users\Alex\Desktop\FancyCalculator\Calculator\bin\Debug\Calculator.exe.config
-C:\Users\Alex\Desktop\FancyCalculator\Calculator\bin\Debug\Calculator.exe
-C:\Users\Alex\Desktop\FancyCalculator\Calculator\bin\Debug\Calculator.pdb
-C:\Users\Alex\Desktop\FancyCalculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
-C:\Users\Alex\Desktop\FancyCalculator\Calculator\obj\Debug\View\MainWindow.g.cs
-C:\Users\Alex\Desktop\FancyCalculator\Calculator\obj\Debug\App.g.cs
-C:\Users\Alex\Desktop\FancyCalculator\Calculator\obj\Debug\GeneratedInternalTypeHelper.g.cs
-C:\Users\Alex\Desktop\FancyCalculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
-C:\Users\Alex\Desktop\FancyCalculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
-C:\Users\Alex\Desktop\FancyCalculator\Calculator\obj\Debug\View\MainWindow.baml
-C:\Users\Alex\Desktop\FancyCalculator\Calculator\obj\Debug\Calculator.g.resources
-C:\Users\Alex\Desktop\FancyCalculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
-C:\Users\Alex\Desktop\FancyCalculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
-C:\Users\Alex\Desktop\FancyCalculator\Calculator\obj\Debug\Calculator.exe
-C:\Users\Alex\Desktop\FancyCalculator\Calculator\obj\Debug\Calculator.pdb
-C:\Users\Alex\Desktop\FancyCalculator\Calculator\bin\Debug\MathParser.org-mXparser.dll
-C:\Users\Alex\Desktop\FancyCalculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\Alex Poliakov\Desktop\fancy-wpf-calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Alex Poliakov\Desktop\fancy-wpf-calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Alex Poliakov\Desktop\fancy-wpf-calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Alex Poliakov\Desktop\fancy-wpf-calculator\Calculator\bin\Debug\MathParser.org-mXparser.dll
+C:\Users\Alex Poliakov\Desktop\fancy-wpf-calculator\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+C:\Users\Alex Poliakov\Desktop\fancy-wpf-calculator\Calculator\obj\Debug\View\MainWindow.g.cs
+C:\Users\Alex Poliakov\Desktop\fancy-wpf-calculator\Calculator\obj\Debug\App.g.cs
+C:\Users\Alex Poliakov\Desktop\fancy-wpf-calculator\Calculator\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Alex Poliakov\Desktop\fancy-wpf-calculator\Calculator\obj\Debug\Calculator_MarkupCompile.cache
+C:\Users\Alex Poliakov\Desktop\fancy-wpf-calculator\Calculator\obj\Debug\Calculator_MarkupCompile.lref
+C:\Users\Alex Poliakov\Desktop\fancy-wpf-calculator\Calculator\obj\Debug\View\MainWindow.baml
+C:\Users\Alex Poliakov\Desktop\fancy-wpf-calculator\Calculator\obj\Debug\Calculator.g.resources
+C:\Users\Alex Poliakov\Desktop\fancy-wpf-calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Alex Poliakov\Desktop\fancy-wpf-calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.cache
+C:\Users\Alex Poliakov\Desktop\fancy-wpf-calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Alex Poliakov\Desktop\fancy-wpf-calculator\Calculator\obj\Debug\Calculator.csproj.CopyComplete
+C:\Users\Alex Poliakov\Desktop\fancy-wpf-calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Alex Poliakov\Desktop\fancy-wpf-calculator\Calculator\obj\Debug\Calculator.pdb
